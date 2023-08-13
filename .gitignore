@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+jest.config.js
+coverage/
+dist/index.test.js
+src/index.test.ts
+index.test.js
+index.test.d.ts
+.npmignore
+dist/bundle.js
+webpack.config.js
