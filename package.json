@@ -1,6 +1,6 @@
 {
   "name": "@alg-mapper/tag-style",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "@alg-mapper/tag-style is a package that converts text elements such as hashtags, links, mentions, and custom keywords into stylized HTML elements.",
   "main": "dist/index.js",
   "publishConfig": {
@@ -8,7 +8,8 @@
     "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "charset": "utf-8"
   },
   "files": [
     "dist/index.js",
